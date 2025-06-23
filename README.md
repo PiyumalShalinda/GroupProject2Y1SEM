@@ -59,7 +59,7 @@ Built with **Java** for the backend, **HTML** and **Tailwind CSS** for the front
 ### Hosting/Deployment:
 
 * **Apache Tomcat** (for hosting and running the Java web application)
-* **AWS EC2** (optional for scalable hosting if needed)
+
 
 ## 📂 File Structure
 
