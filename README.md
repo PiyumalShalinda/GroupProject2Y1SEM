@@ -1,6 +1,4 @@
-Sure! Here's the updated project overview with the new name **MedCo 360**:
 
----
 
 # MedCo 360 – All-in-One Medicine Ordering System
 
